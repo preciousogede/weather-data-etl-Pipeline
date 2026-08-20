@@ -1,0 +1,21 @@
+City,Temperature_C,Humidity_Percent,Weather_Condition,Wind_Speed,Date_Time
+Lagos,24.69,92,broken clouds,2.32,2026-08-20 21:33:11
+London,16.6,77,overcast clouds,4.0,2026-08-20 21:30:22
+New York,24.98,80,moderate rain,5.14,2026-08-20 21:29:17
+Paris,19.1,68,broken clouds,1.54,2026-08-20 21:30:31
+Tokyo,27.03,83,broken clouds,5.14,2026-08-20 21:30:03
+Dubai,35.96,63,scattered clouds,2.57,2026-08-20 21:34:09
+Toronto,23.93,52,broken clouds,4.12,2026-08-20 21:37:32
+Sydney,14.73,71,overcast clouds,0.45,2026-08-20 21:37:32
+Cape Town,14.06,82,scattered clouds,6.71,2026-08-20 21:35:42
+Cairo,26.42,57,clear sky,5.66,2026-08-20 21:28:10
+Nairobi,14.62,72,overcast clouds,2.06,2026-08-20 21:37:32
+Accra,25.23,88,broken clouds,4.63,2026-08-20 21:32:39
+Johannesburg,10.94,58,clear sky,1.5,2026-08-20 21:34:46
+Berlin,18.04,79,broken clouds,2.68,2026-08-20 21:30:00
+Madrid,25.37,44,broken clouds,5.14,2026-08-20 21:28:01
+Rome,34.92,47,broken clouds,1.79,2026-08-20 21:24:10
+Mumbai,27.99,83,light rain,6.17,2026-08-20 21:30:02
+Singapore,27.39,86,few clouds,1.54,2026-08-20 21:35:43
+Los Angeles,31.8,53,broken clouds,3.6,2026-08-20 21:32:33
+Chicago,24.79,64,few clouds,4.63,2026-08-20 21:27:58

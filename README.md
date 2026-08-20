@@ -80,7 +80,7 @@ Based on the collected weather data:
 
 ## Project Files
 
-- [Week 7 Weather ETL Notebook](Weather_ETL.ipynb) – Notebook containing the ETL process and analysis
+- [Weather ETL Notebook](Weather_ETL.ipynb) – Notebook containing the ETL process and analysis
 - [Weather Dataset](weather_data.csv) – Transformed weather dataset
 - `README.md` – Project documentation
 
